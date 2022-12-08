@@ -8,11 +8,8 @@ Baixar arquivo .py alterar campos conforme as descrição no codigo.
 
 ### 📋 Pré-requisitos
 
-* [requests](https://pypi.org/project/requests/) 
-- spam_forms.py
-
-* [bs4](https://pypi.org/project/beautifulsoup4/) 
-- spam_forms.py
+* [requests](https://pypi.org/project/requests/) - spam_forms.py
+* [bs4](https://pypi.org/project/beautifulsoup4/) - spam_forms.py
 
 ## 🛠️ Construído com
 
