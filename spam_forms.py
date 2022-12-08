@@ -1,5 +1,5 @@
 """
-Projeto para spamarvotos no Google
+Projeto para spamarvotos no gforms
 
 Dependencias:
 python -m pip install requests
@@ -32,5 +32,5 @@ def spamarvotos(quantidade):
             f"https://docs.google.com/forms/u/0/d/e/1FAIpQLSfTUJA3hngd7qnyhZfnCYPn2oM3X95ZddP-Wsv-JoqPoWyfXg/formResponse?&dlut=1665761374135&entry.1732886321_sentinel=&fvv=1&partialResponse=%5Bnull%2Cnull%2C%22-9130729204825550769%22%5D&pageHistory=0&fbzx=-9130729204825550769")
         print(b(url_content.content).text)
 
-
+#quantidade de votos
 spamarvotos(100)
