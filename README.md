@@ -18,7 +18,7 @@ Baixar arquivo .py alterar campos conforme as descrição no codigo.
 
 ## ✒️ Autor
 
-* **Desenvolvedor** - [Armstrong](https://github.com/armsshenry)
+* **Desenvolvedor** - [Armstrong](https://github.com/armsshenrique)
 
 ## Sistema operacional: 
 * Windows 💻
